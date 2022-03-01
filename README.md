@@ -29,6 +29,7 @@ A549 | H3K4me2 | ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ
       ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
       --- | --- | --- 
       ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_per_base_seq_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_per_base_seq_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_per_base_seq_content.png)
+      
       Вывод: Можем заметит, что уровень Аденина(А), Гуанина(G), Цитозина(C), Тимина(T) остается на одном уровне, причем азотистые основания разбились на две группы тимин, аденин и цитозин, гуанин. Данное наблюдение прослеживается на всех трех графиках и свидетельствует о нормальных (не аномальных) значениях показателей.
       
    * Per sequence GC content
