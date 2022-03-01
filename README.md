@@ -19,13 +19,18 @@ A549 | H3K4me2 | ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ
       ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
       --- | --- | --- 
       ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_bas_stat.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_bas_stat.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_bas_stat.png)
-      
-    * Per base sequence content
-      ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
-      --- | --- | --- 
-      ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_per_base_seq_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_per_base_seq_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_per_base_seq_content.png)
     
     * Per tile sequence quality
       ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
       --- | --- | --- 
       ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_per_tile_seq_q.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_per_tile_seq_q.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_per_tile_seq_q.png)
+      
+    * Per base sequence content
+      ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
+      --- | --- | --- 
+      ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_per_base_seq_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_per_base_seq_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_per_base_seq_content.png)
+      
+   * Per sequence GC content
+      ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
+      --- | --- | --- 
+      ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_per_seq_GC_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_per_seq_GC_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ__per_seq_GC_content.png)
