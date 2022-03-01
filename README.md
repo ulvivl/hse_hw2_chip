@@ -10,7 +10,11 @@ A549 | H3K4me2 | ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ
 
 ---
 1. При анализе Fastqc подрезание прочтений и фильтрация не потребовалось, так как большинство разделов в Summary отмечены, как корректно выполненные. 
-   * **Summary**
+   * Summary
     ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
     --- | --- | --- 
     ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_summary.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_summary.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_summary.png)
+    * Basic statistics
+    ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
+    --- | --- | --- 
+    ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_bas_stat.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_bas_stat.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_bas_stat.png)
