@@ -21,6 +21,8 @@ A549 | H3K4me2 | ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ
       ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
       --- | --- | --- 
       ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_bas_stat.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_bas_stat.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_bas_stat.png)
+  
+  Вывод: В данных таблицах представлена базовая информация FASTQ файле. На мой взгляд информативными показателями являются: общее количество чтений, длина чтения и содержание GC.
     
    * Per tile sequence quality
       ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ 
@@ -42,3 +44,7 @@ A549 | H3K4me2 | ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ
       ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_per_seq_GC_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_per_seq_GC_content.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NPZ_per_seq_GC_content.png)
       
    Вывод: Исходя из трех скриншотов, видно, что на третьем графике кривые похожи на нормально распредление, где среднее значение соотвествует среднему содержанию GC в секвинируемом огранизме. Для первых двух скриншотов, можно же заметить, что их распредление откличается от нормального, в связи с чем в таблице Summary напротив данного параметра мы наблюдаем восклицательный знак, сигнализирующий о возможных проблемах при данном анализе.
+  
+---
+2.
+
