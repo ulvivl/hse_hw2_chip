@@ -62,7 +62,12 @@ A549 | H3K4me2 | ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ
 3. Диаграммы Венна
    
    * Для образца ENCFF507YIE
-     Количесвто участков из файла для ENCFF507YIE, которые пересекаются с файлом для ENCFF806AQL  | Количесвто участков из файла для ENCFF806AQL, которые пересекаются с файлом для ENCFF507YIE
+     Количество участков из файла для ENCFF507YIE, которые пересекаются с файлом для ENCFF806AQL  | Количество участков из файла для ENCFF806AQL, которые пересекаются с файлом для ENCFF507YIE
      --- | --- 
      ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/YIE_with_AQL.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/AQL_with_YIE.png)
+     
+   * Для образца ENCFF826KAA
+     Количество участков из файла для ENCFF826KAA, которые пересекаются с файлом для ENCFF806AQL  | Количество участков из файла для ENCFF806AQL, которые пересекаются с файлом для ENCFF826KAA
+     --- | --- 
+     ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_with_AQL.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/AQL_with_KAA.png)
 
