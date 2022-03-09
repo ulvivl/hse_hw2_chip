@@ -73,3 +73,11 @@ A549 | H3K4me2 | ENCFF507YIE | ENCFF826KAA | ENCFF232NPZ
      ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/KAA_with_AQL.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/AQL_with_KAA.png)
 
 Наблюдение: исходя из диаграмм видно, что количество пересекающихся учатсков относительно небольшое. Скорее всего это произошло из-за того, что изначально у нас было относительно не большое количество пиков, так как выравнивание производилось только на одну хромосому. Для файла ENCFF806AQL, взятого из ENCODE, количество пиков же гораздо больше, в связи с выравниванием на все хромосомы. Можно также заметить, что пересечения на двух графиках в одной таблице не совпадают, в силу того как было опредлено пересечение.
+
+---
+4. Бонусная часть
+    Хитмэпы для bam файлов и соотвествующих им .bigWig файлов
+    
+    ngs.plot для ENCFF066HKS.bam | ngs.plot для ENCFF346XTR.bam
+     --- | --- 
+     ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NIR.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/UVW.png)
